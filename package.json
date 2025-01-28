@@ -27,7 +27,7 @@
     "lint-staged": "^15.3.0",
     "prettier": "3.4.2",
     "style-loader": "^4.0.0",
-    "webpack": "^5.95.0",
+    "webpack": "^5.97.1",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.1.0"
   },
@@ -36,5 +36,13 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assaf-git/dropdown-menu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assaf-git/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/assaf-git/dropdown-menu#readme"
 }
