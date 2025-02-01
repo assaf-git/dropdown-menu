@@ -1,7 +1,7 @@
 {
-  "name": "webpack-template",
+  "name": "dropdown-menu",
   "version": "1.0.0",
-  "description": "",
+  "description": "A dropdown menu component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
